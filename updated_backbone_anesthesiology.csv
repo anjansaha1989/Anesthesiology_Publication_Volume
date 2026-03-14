@@ -1,0 +1,196 @@
+﻿iso3,country,hdicode,hdi_2023,anesthesiology
+AFG,Afghanistan,Low,0.496,49
+ALB,Albania,Very High,0.81,63
+DZA,Algeria,High,0.763,103
+AND,Andorra,Very High,0.913,4
+AGO,Angola,Medium,0.616,11
+ATG,Antigua and Barbuda,Very High,0.851,10
+ARG,Argentina,Very High,0.865,1289
+ARM,Armenia,Very High,0.811,65
+AUS,Australia,Very High,0.958,13562
+AUT,Austria,Very High,0.93,4832
+AZE,Azerbaijan,High,0.789,85
+BHS,Bahamas,Very High,0.82,7
+BHR,Bahrain,Very High,0.899,142
+BGD,Bangladesh,Medium,0.685,261
+BRB,Barbados,Very High,0.811,44
+BLR,Belarus,Very High,0.824,152
+BEL,Belgium,Very High,0.951,6934
+BLZ,Belize,High,0.721,7
+BEN,Benin,Low,0.515,64
+BTN,Bhutan,Medium,0.698,30
+BOL,Bolivia,High,0.733,47
+BIH,Bosnia and Herzegovina,Very High,0.804,217
+BWA,Botswana,High,0.731,42
+BRA,Brazil,High,0.786,9130
+BRN,Brunei,Very High,0.837,28
+BGR,Bulgaria,Very High,0.845,686
+BFA,Burkina Faso,Low,0.459,61
+BDI,Burundi,Low,0.439,19
+CPV,Cabo Verde,Medium,0.668,0
+KHM,Cambodia,Medium,0.606,26
+CMR,Cameroon,Medium,0.588,137
+CAN,Canada,Very High,0.939,21792
+CAF,Central African Republic,Low,0.414,7
+TCD,Chad,Low,0.416,3
+CHL,Chile,Very High,0.878,1284
+CHN,China,High,0.797,38991
+COL,Colombia,High,0.788,1385
+COM,Comoros,Medium,0.603,4
+COG,Congo,Medium,0.649,103
+CRI,Costa Rica,Very High,0.833,84
+HRV,Croatia,Very High,0.889,1266
+CUB,Cuba,High,0.762,317
+CYP,Cyprus,Very High,0.913,171
+CZE,Czech Republic,Very High,0.915,2238
+COD,Democratic Republic of the Congo,Low,0.522,0
+DNK,Denmark,Very High,0.962,6416
+DJI,Djibouti,Low,0.513,8
+DMA,Dominica,High,0.761,7
+DOM,Dominican Republic,High,0.776,29
+ECU,Ecuador,High,0.777,120
+EGY,Egypt,High,0.754,4866
+SLV,El Salvador,Medium,0.678,16
+GNQ,Equatorial Guinea,Medium,0.674,2
+ERI,Eritrea,Low,0.503,9
+EST,Estonia,Very High,0.905,94
+ETH,Ethiopia,Low,0.497,732
+FJI,Fiji,High,0.731,26
+FIN,Finland,Very High,0.948,3939
+FRA,France,Very High,0.92,23674
+GAB,Gabon,High,0.733,18
+GMB,Gambia,Low,0.524,21
+GEO,Georgia,Very High,0.844,171
+DEU,Germany,Very High,0.959,32601
+GHA,Ghana,Medium,0.628,227
+GRC,Greece,Very High,0.908,3058
+GRD,Grenada,High,0.791,81
+GTM,Guatemala,Medium,0.662,38
+GIN,Guinea,Low,0.5,63
+GNB,Guinea-Bissau,Low,0.514,4
+GUY,Guyana,High,0.776,14
+HTI,Haiti,Medium,0.554,26
+HND,Honduras,Medium,0.645,28
+HKG,Hong Kong S.A.R.,Very High,0.955,0
+HUN,Hungary,Very High,0.87,1708
+ISL,Iceland,Very High,0.972,162
+IND,India,Medium,0.685,23465
+IDN,Indonesia,High,0.728,1132
+IRN,Iran,High,0.799,6433
+IRQ,Iraq,Medium,0.695,819
+IRL,Ireland,Very High,0.949,2988
+ISR,Israel,Very High,0.919,4482
+ITA,Italy,Very High,0.915,21122
+CIV,Ivory Coast,Medium,0.582,0
+JAM,Jamaica,High,0.72,101
+JPN,Japan,Very High,0.925,37603
+JOR,Jordan,High,0.754,544
+KAZ,Kazakhstan,Very High,0.837,179
+KEN,Kenya,Medium,0.628,293
+KIR,Kiribati,Medium,0.644,23
+KWT,Kuwait,Very High,0.852,249
+KGZ,Kyrgyzstan,High,0.72,31
+LAO,Laos,Medium,0.617,14
+LVA,Latvia,Very High,0.889,140
+LBN,Lebanon,High,0.752,989
+LSO,Lesotho,Medium,0.55,1
+LBR,Liberia,Low,0.51,20
+LBY,Libya,High,0.721,43
+LIE,Liechtenstein,Very High,0.938,7
+LTU,Lithuania,Very High,0.895,282
+LUX,Luxembourg,Very High,0.922,88
+MDG,Madagascar,Low,0.487,38
+MWI,Malawi,Low,0.517,104
+MYS,Malaysia,Very High,0.819,1414
+MDV,Maldives,High,0.766,8
+MLI,Mali,Low,0.419,37
+MLT,Malta,Very High,0.924,97
+MHL,Marshall Islands,High,0.733,0
+MRT,Mauritania,Medium,0.563,5
+MUS,Mauritius,Very High,0.806,12
+MEX,Mexico,High,0.789,2678
+FSM,Micronesia,Medium,0.615,0
+MDA,Moldova,High,0.785,41
+MNG,Mongolia,High,0.747,35
+MNE,Montenegro,Very High,0.862,32
+MAR,Morocco,High,0.71,679
+MOZ,Mozambique,Low,0.493,18
+MMR,Myanmar,Medium,0.609,16
+NAM,Namibia,Medium,0.665,40
+NRU,Nauru,High,0.703,0
+NPL,Nepal,Medium,0.622,637
+NLD,Netherlands,Very High,0.955,9283
+NZL,New Zealand,Very High,0.938,3107
+NIC,Nicaragua,High,0.706,17
+NER,Niger,Low,0.419,32
+NGA,Nigeria,Medium,0.56,1453
+MKD,North Macedonia,Very High,0.815,123
+NOR,Norway,Very High,0.97,2956
+OMN,Oman,Very High,0.858,314
+PAK,Pakistan,Low,0.544,2914
+PLW,Palau,High,0.786,2
+PSE,Palestine,Medium,0.674,109
+PAN,Panama,Very High,0.839,49
+PNG,Papua New Guinea,Medium,0.576,46
+PRY,Paraguay,High,0.756,19
+PER,Peru,High,0.794,251
+PHL,Philippines,High,0.72,222
+POL,Poland,Very High,0.906,4443
+PRT,Portugal,Very High,0.89,1910
+PRI,Puerto Rico,Very High,0.868,102
+QAT,Qatar,Very High,0.886,434
+ROU,Romania,Very High,0.845,1386
+RUS,Russia,Very High,0.832,213
+RWA,Rwanda,Medium,0.578,174
+KNA,Saint Kitts and Nevis,Very High,0.84,45
+LCA,Saint Lucia,High,0.748,0
+VCT,Saint Vincent and the Grenadines,High,0.798,7
+WSM,Samoa,High,0.708,3
+SMR,San Marino,Very High,0.915,10
+STP,Sao Tome and Principe,Medium,0.637,1
+SAU,Saudi Arabia,Very High,0.9,2888
+SEN,Senegal,Low,0.53,104
+SRB,Serbia,Very High,0.833,993
+SYC,Seychelles,Very High,0.848,1
+SLE,Sierra Leone,Low,0.467,39
+SGP,Singapore,Very High,0.946,2306
+SVK,Slovakia,Very High,0.88,663
+SVN,Slovenia,Very High,0.931,548
+SLB,Solomon Islands,Medium,0.584,4
+SOM,Somalia,Low,0.404,49
+ZAF,South Africa,High,0.741,2829
+KOR,South Korea,Very High,0.937,10485
+SSD,South Sudan,Low,0.388,14
+ESP,Spain,Very High,0.918,11005
+LKA,Sri Lanka,High,0.776,273
+SDN,Sudan,Low,0.511,139
+SUR,Suriname,High,0.722,2
+SWZ,Swaziland,Medium,0.695,9
+SWE,Sweden,Very High,0.959,8782
+CHE,Switzerland,Very High,0.97,9413
+SYR,Syria,Medium,0.564,0
+TWN,Taiwan,Very High,0.934,4984
+TJK,Tajikistan,Medium,0.691,5
+TZA,Tanzania,Medium,0.555,227
+THA,Thailand,High,0.798,2140
+TLS,Timor-Leste,Medium,0.634,5
+TGO,Togo,Medium,0.571,48
+TON,Tonga,High,0.769,6
+TTO,Trinidad and Tobago,Very High,0.807,99
+TUN,Tunisia,High,0.746,572
+TUR,Turkey,Very High,0.853,16935
+TKM,Turkmenistan,High,0.764,0
+TUV,Tuvalu,Medium,0.689,2
+UGA,Uganda,Medium,0.582,233
+UKR,Ukraine,High,0.779,1069
+ARE,United Arab Emirates,Very High,0.94,684
+GBR,United Kingdom,Very High,0.946,51119
+USA,United States of America,Very High,0.938,0
+URY,Uruguay,Very High,0.862,156
+UZB,Uzbekistan,High,0.74,107
+VUT,Vanuatu,Medium,0.621,10
+VEN,Venezuela,High,0.709,246
+VNM,Vietnam,High,0.766,0
+YEM,Yemen,Low,0.47,66
+ZMB,Zambia,Medium,0.595,91
+ZWE,Zimbabwe,Medium,0.598,112
